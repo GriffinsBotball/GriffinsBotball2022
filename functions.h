@@ -8,3 +8,6 @@ void F6();
 void SO();
 void B1();
 void F1();
+void SQR();
+void LF();
+void LS();
